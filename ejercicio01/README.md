@@ -1,0 +1,1 @@
+docker run -d --name nginx-server -p 80:80 -v ~/Downloads/Taller_Docker/ejercicio01/html/:/usr/share/nginx/html:ro nginx

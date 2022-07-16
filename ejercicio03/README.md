@@ -1,0 +1,2 @@
+Si se observa el resultado del comando docker inspect de ambas imagenes se puede observar que comparten un solo layer, el cual es el siguiente:
+"sha256:73046094a9b835e443af1a9d736fcfc11a994107500e474d0abf399499ed280c"
